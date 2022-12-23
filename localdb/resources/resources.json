@@ -1,0 +1,15 @@
+[
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Poppins",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        }
+      ]
+    }
+  }
+]
