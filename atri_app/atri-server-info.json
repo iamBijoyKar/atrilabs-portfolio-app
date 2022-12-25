@@ -3,11 +3,13 @@
   "pythonPort": 4007,
   "publicDir": "dist/app",
   "pages": {
-    "/": {
-      "name": "Home"
-    }
+      "/": {
+          "name": "Home"
+      }
   },
   "publicUrlAssetMap": {
-    "/app-assets": "..\\assets"
-  }
+      "/app-assets": "../assets"
+  },
+  "organizationName": "iamBijoyKar",
+  "projectName": "atrilabs-portfolio-app"
 }
